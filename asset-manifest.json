@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-conquer-task/static/css/main.c8b39ddb.chunk.css",
+    "main.js": "/react-conquer-task/static/js/main.8b1fb24c.chunk.js",
+    "main.js.map": "/react-conquer-task/static/js/main.8b1fb24c.chunk.js.map",
+    "runtime-main.js": "/react-conquer-task/static/js/runtime-main.f805c921.js",
+    "runtime-main.js.map": "/react-conquer-task/static/js/runtime-main.f805c921.js.map",
+    "static/js/2.3eacfe40.chunk.js": "/react-conquer-task/static/js/2.3eacfe40.chunk.js",
+    "static/js/2.3eacfe40.chunk.js.map": "/react-conquer-task/static/js/2.3eacfe40.chunk.js.map",
+    "index.html": "/react-conquer-task/index.html",
+    "precache-manifest.31d9109a7273efea39c70301d95331b5.js": "/react-conquer-task/precache-manifest.31d9109a7273efea39c70301d95331b5.js",
+    "service-worker.js": "/react-conquer-task/service-worker.js",
+    "static/css/main.c8b39ddb.chunk.css.map": "/react-conquer-task/static/css/main.c8b39ddb.chunk.css.map",
+    "static/js/2.3eacfe40.chunk.js.LICENSE.txt": "/react-conquer-task/static/js/2.3eacfe40.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/react-conquer-task/static/media/01.d1e21ce0.jpg",
+    "static/media/02.jpg": "/react-conquer-task/static/media/02.4509fa02.jpg",
+    "static/media/03.jpg": "/react-conquer-task/static/media/03.614cb309.jpg",
+    "static/media/04.jpg": "/react-conquer-task/static/media/04.a6df4c56.jpg",
+    "static/media/05.jpg": "/react-conquer-task/static/media/05.c64cc614.jpg",
+    "static/media/06.jpg": "/react-conquer-task/static/media/06.abec5727.jpg",
+    "static/media/Section2.css": "/react-conquer-task/static/media/07.669bd8cf.jpg",
+    "static/media/08.jpg": "/react-conquer-task/static/media/08.6089d991.jpg",
+    "static/media/09.jpg": "/react-conquer-task/static/media/09.fa66fb81.jpg",
+    "static/media/10.jpg": "/react-conquer-task/static/media/10.a069e759.jpg",
+    "static/media/11.jpg": "/react-conquer-task/static/media/11.4c5500a7.jpg",
+    "static/media/12.jpg": "/react-conquer-task/static/media/12.c2292cce.jpg",
+    "static/media/Section3.css": "/react-conquer-task/static/media/13.cee6d1c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f805c921.js",
+    "static/js/2.3eacfe40.chunk.js",
+    "static/css/main.c8b39ddb.chunk.css",
+    "static/js/main.8b1fb24c.chunk.js"
+  ]
+}
