@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6b1eae567bff9bdf32f20b908204459",
+    "revision": "d1a19094f4dcb1cf746004e0ebd2c9ac",
     "url": "/react-conquer-task/index.html"
   },
   {
-    "revision": "367f8a1b53183c350d91",
+    "revision": "663e1f914f28252d5ed9",
     "url": "/react-conquer-task/static/css/main.c8b39ddb.chunk.css"
   },
   {
-    "revision": "803b049da03048d7c0f6",
-    "url": "/react-conquer-task/static/js/2.3eacfe40.chunk.js"
+    "revision": "326fb0fe2bed064dfaf5",
+    "url": "/react-conquer-task/static/js/2.b67b4e36.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/react-conquer-task/static/js/2.3eacfe40.chunk.js.LICENSE.txt"
+    "url": "/react-conquer-task/static/js/2.b67b4e36.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "367f8a1b53183c350d91",
-    "url": "/react-conquer-task/static/js/main.8b1fb24c.chunk.js"
+    "revision": "663e1f914f28252d5ed9",
+    "url": "/react-conquer-task/static/js/main.fc9ee194.chunk.js"
   },
   {
     "revision": "372bca9dabdaa3c67841",
